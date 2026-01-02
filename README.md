@@ -30,7 +30,8 @@ sweet-potato-production-system/
 |————Java-modue/# Java数据处理
 |————does/#项目文档
 |————tests/#测试用例
-##八、关键信息
-1：-**联系方式**：手机：15678481830/QQ：3673115667
+##八、联系信息
+1：-**联系方式**：手机：15678481830
 2：-**GitHub链接**：https://github.com/liangyongkang-huli-analyst-25
 3：-**许可证**：MI Licence
+4：-**Email**：3673115667@qq.com
